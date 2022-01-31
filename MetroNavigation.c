@@ -5,8 +5,6 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 /*
-	Student Name, Surname: Can Gök
-	Student ID: 150118014
 	Program Definition: Program installs a metro system and calculates the best path for moving from a station to the another station,
 	also program can be used to find the closest metro station with given x,y values.
 */
